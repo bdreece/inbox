@@ -1,0 +1,4 @@
+ses:
+  region: $INBOX_AWS_REGION
+  from: $INBOX_FROM_ADDRESS
+  to: $INBOX_TO_ADDRESS
